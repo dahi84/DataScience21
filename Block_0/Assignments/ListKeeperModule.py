@@ -42,7 +42,6 @@ class ListKeeper:
     # extra print function for functionality tests
     def print_dict(self):   
         print(self.keeperdict)
-#        print(self.keeperdict["names"])
-#        print(self.keeperdict["lists"])      
+     
         
         
